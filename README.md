@@ -40,11 +40,7 @@ aplikasi akan menganalisa setiap kata pada seitap link halaman berita, berikut i
 
 
 ![Screenshot](3.png)
-.
 
-.
-
-dts
 
 output full nya adalah sebagai berikut:
 
@@ -129,3 +125,5 @@ setelah pemrosesan selesai, semua link yang telah didapatkan secara otomatis aka
 
 
 ![Screenshot](4.png)
+
+
