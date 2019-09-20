@@ -22,7 +22,8 @@ pip3 install html5lib
 ```
 ## Cara Kerja
 ketika aplikasi dijalankan, halaman pertama yang akan muncul adalah sebagai berikut:
-   <br />
+
+
 ![Screenshot](1.png)
 
 ```
