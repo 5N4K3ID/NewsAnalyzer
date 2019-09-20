@@ -26,6 +26,28 @@ ketika aplikasi dijalankan, halaman pertama yang akan muncul adalah sebagai beri
 
 ![Screenshot](1.png)
 
+pada contoh gambar diatas, saya mencoba mencari informasi dengan tiga parameter:
+1. situs berita : **detik.com/berita/**
+2. keyword berita : **kalimantan**
+3. jumlah link yang akan dianalisis : **5**
+
+setelah memasukkan parameter yang dibutuhkan, berikut adalah link teratas pada detik.com/berita/ terkait keyword kalimantan
+
+
+![Screenshot](2.png)
+
+aplikasi akan menganalisa setiap kata pada seitap link halaman berita, berikut ini adalah cuplikan tiga link teratas dari lima link:
+
+
+![Screenshot](3.png)
+.
+
+.
+
+dts
+
+output full nya adalah sebagai berikut:
+
 ```
 ========================================================================
  link target |
@@ -102,3 +124,8 @@ domain     : news.detik.com
 ip address : 203.190.242.187
 ========================================================================
 ```
+
+setelah pemrosesan selesai, semua link yang telah didapatkan secara otomatis akan terbuka di browser:
+
+
+![Screenshot](4.png)
